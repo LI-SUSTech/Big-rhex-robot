@@ -1,5 +1,6 @@
 # xrhex
 it is a final course project for ME337
+![image](https://github.com/LI-SUSTech/xrhex/blob/main/image/rhex.jpg)
 
 ## TEAM 
 ###  chief engineer：Yifei Li
