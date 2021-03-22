@@ -18,5 +18,5 @@ After running the code ,user can use keybroad as input device to control the xrh
 ### reference
 参考大疆robomater官网C620 M3508手册,CAN通信协议
 
-## to do list fot 张弛 and 尹思源
+## to do list 
 当前仅为一路can（也就是刚才打开的can0），并不能满足通信速率的要求。现需要增加多路can。
